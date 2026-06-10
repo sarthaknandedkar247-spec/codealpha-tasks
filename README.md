@@ -1,4 +1,4 @@
-# CodeAlpha Web Development Internship
+# CodeAlpha Full Stack Development Internship
 
 Welcome to my CodeAlpha Web Development Internship repository! This repository contains two web applications developed to showcase my skills in full-stack web development. Each project focuses on different aspects of web development and demonstrates various technologies and best practices.
 
